@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KandleMan
+- I made this for our CS3 subject in school
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning to make a simple website for my project
 - 💞️ I’m looking to collaborate on how to improve the site
